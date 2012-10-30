@@ -1,4 +1,5 @@
 //hola soy el oscar
+//mi aportacion. jean (:
 /*
  * VentanaEstadisticas.java
 
