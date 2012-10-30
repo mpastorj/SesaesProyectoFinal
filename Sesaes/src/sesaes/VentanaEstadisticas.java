@@ -1,3 +1,4 @@
+//hola soy el oscar
 /*
  * VentanaEstadisticas.java
 
