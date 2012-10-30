@@ -3,7 +3,7 @@
 /*
  * VentanaEstadisticas.java
 
- //holi :B
+ //holi 
  */
 package sesaes;
 
